@@ -1,7 +1,4 @@
 <?
-
-print("Hello World");
-print("Practice will begin");
-
-
+echo "PHP is good!";
+echo "PHP is easy!";
 ?>
